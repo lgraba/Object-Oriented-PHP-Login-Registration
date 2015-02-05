@@ -1,0 +1,30 @@
+ul {
+	padding: 0px;
+	margin: 0 0 20px 0;
+	list-style: none;
+}
+
+label {
+	display: block;
+}
+
+.field {
+	padding: 10px;
+}
+
+.error {
+	display: block;
+	text-align: right;
+}
+
+.button {
+	float: right;
+	margin: 5px;
+}
+
+#container {
+	margin: 0 auto;
+	padding: 5px;
+	border: 1px dotted #d3d3d3;
+	width: 260px;
+}
